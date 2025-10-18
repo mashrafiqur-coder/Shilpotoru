@@ -193,7 +193,7 @@
 <section id="contact">
     <h2>যোগাযোগ</h2>
     <p>Email: <a href="mailto:info@shilpotoru.com">info@shilpotoru.com</a></p>
-    <p>Phone: +880 1333370627</p>
+    <p>Phone: +880 133 337 062 7</p>
 </section>
 
 <footer>
